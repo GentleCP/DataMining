@@ -130,3 +130,6 @@ dmypy.json
 
 # data
 *.csv
+
+# no update
+*no.ipynb
